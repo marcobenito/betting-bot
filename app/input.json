@@ -1,0 +1,11 @@
+{
+  "bet": {
+    "filter": "STAKE",
+    "max_stake": 10,
+    "max_quantity": 1000,
+    "tipster_stake_1": 100,
+    "bankroll": 200
+  },
+  "telegram": {}
+}
+

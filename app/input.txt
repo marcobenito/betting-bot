@@ -1,0 +1,24 @@
+### INPUT FILE ###
+# Please note that the declared variables must follow the following convention:
+# type:variable_name = value
+# where type can be str (string), int (integer) or float (float)
+
+### Betting credentials
+str:bet_username = AC88012241
+str:bet_password = Bet.ps3838_1234
+str:filter_trigger = STAKE
+
+### Betting limits
+float:max_stake = 10
+float:max_quantity = 1000
+
+### Telegram credentials
+int:api_id = 16387020
+str:api_hash = 6e2c750ba8c04e340f656681216d7398
+str:telegram_username = marcobenito
+str:user_input_channel = https://t.me/test_mbk
+
+###
+
+
+

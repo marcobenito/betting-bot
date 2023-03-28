@@ -1,0 +1,13 @@
+{
+  "bet": {
+    "filter": "STAKE",
+    "max_stake": 10,
+    "max_quantity": 1000
+  },
+  "telegram": {
+    "api_id": 16387020,
+    "api_hash": "6e2c750ba8c04e340f656681216d7398",
+    "session_token": "1BJWap1sBuwQBBRo_PJnxLo9eUdPvKbuTVpVtyprS9laxCMnIbyhT2dp5oo2VKVe-lwBr28CPGY2hgzxzuJWM6pp6QM0JTCOEo2KeLnd-5N7bl8IvsswiSKhO69o6OBj7nfujQGu4mzwcDIwh_BoQVjc2PYEId0yC3pvRQgdg2vjQB8ynJ8iwnSE8k8TQS2hI1ILrR-i7Lwk_O2lfIvZaB1TndYQYztBZcYEnzKoCqwxTFwoHMscidVQ5c98Rh-CezPHutfLfH06hPdRW9lFPGrf1850H21UpJLS9dhV4Oikq_1bCjqtPqJ469WxsnLEfcg6ACdcsretpDTDdaELlOqLWBNJFMOY=",
+    "input_channel_local": "https://t.me/test_mbk_local"
+  }
+}
