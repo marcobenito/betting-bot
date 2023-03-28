@@ -1,2 +1,2 @@
-# auto-bet
-This project is a personal project in which I try to automate the process of copying picks from a tipster
+# betting-bot
+In this project I am setting up a telegram bot that automates the process of copying sports picks from a tipster and placing the bet through the sportsbooks API.
